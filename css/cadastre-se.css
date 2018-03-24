@@ -1,0 +1,54 @@
+
+.cadastre-se {
+	background-color: #e14559; /* cor rosa */
+}
+
+.cadastre-se h2, 
+.cadastre-se h3, 
+.cadastre-se h4 {
+	color: #f9df19; /* cor amarela */
+}
+
+.cadastre-se .container {
+	margin: 0 auto;
+	max-width: 100%;
+	padding-top: 330px;
+    width: 1040px;
+}
+
+.cadastre-se .img-mapa {
+	background-image: url(../assets/img/mapa-brasil.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: block;
+	float: left;
+	height: 732px;
+	margin: 180px 0 210px -170px;
+	text-indent: -9999px;
+	width: 732px;
+}
+
+.cadastre-se .texto-cadastrar,
+.cadastre-se .cadastrar {
+	float: right;
+	width: 424px;
+}
+
+.cadastre-se .texto-cadastrar p {
+	margin-top: 24px;
+	margin-bottom: 40px;
+}
+
+.cadastre-se .cadastrar .input-form {
+	width: 424px;
+}
+
+.cadastre-se .cadastrar .botao-branco {
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+.cadastre-se .transicao {
+	clear: both;
+	background-image: url(../assets/img/transicao/transicao-azul.svg);
+}

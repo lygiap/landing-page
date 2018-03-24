@@ -1,0 +1,447 @@
+
+/************ Small / Large Devices ************/
+
+@media screen and (max-width: 1090px) {
+
+	/* *************** TUA FESTA **************** */
+
+	.tua-festa .container-1070 .galeria {
+		width: 1040px;
+	}
+
+	.tua-festa .galeria .canvas-galeria {
+		height: 272px;
+		width: 272px;
+	}
+
+	.tua-festa .galeria .autor-festa {
+		margin-left: 156px;
+		margin-top: 252px;
+	}
+
+	.tua-festa .galeria figcaption {
+		width: 272px;
+	}
+
+	/* ****************************************** */
+
+
+	/* ************** CADASTRE-SE *************** */
+
+	.cadastre-se .container {
+		width: 512px;
+	}
+
+	.cadastre-se .img-mapa {
+		margin-bottom: 32px;
+	}
+
+	.cadastre-se .texto-cadastrar,
+	.cadastre-se .cadastrar {
+		float: left;
+		width: 512px;
+	}
+
+	.cadastre-se .cadastrar .input-form {
+		width: 512px;
+	}
+
+	.cadastre-se .cadastrar .botao-facebook {
+		margin-bottom: 210px;
+	}
+
+	/* ****************************************** */
+
+}
+
+@media screen and (min-width: 576px) and (max-width: 1090px) {
+
+	.tua-festa .galeria li.img-display {
+		display: none;
+	}
+
+}
+
+/************************************************/
+
+
+
+/********** Extra-small/ Medium Devices **********/
+
+@media screen and (max-width: 1054px) {
+
+	.container h2,
+	.container h3,
+	.container h4,
+	.container p {
+		margin-left: 48px;
+		margin-right: 48px;
+	}
+
+	/* ************* COMO FUNCIONA ************** */
+
+	.como-funciona .img-criacao {
+		float: none;
+		margin-bottom: 24px;
+		margin-top: 48px;
+		width: 512px;
+	}
+
+	.como-funciona .texto-como-funciona {
+		float: left;
+		margin: 0 0 104px;
+		width: 100%;
+	}
+
+	.como-funciona .texto-como-funciona p {
+		margin-top: 40px;
+	}
+
+	.como-funciona .texto-sua-festa,
+	.como-funciona .texto-transparencia,
+	.como-funciona .texto-opcoes {
+		margin-bottom: 80px;
+		margin-top: 0;
+		width: 100%;
+	}
+
+	.como-funciona .texto-sua-festa img {
+		width: 304px;
+	}
+
+	.como-funciona .texto-transparencia img {
+		width: 240px;
+	}
+
+	.como-funciona .texto-opcoes img {
+		width: 272px;
+	}
+
+	.como-funciona .texto-transparencia {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.como-funciona .texto-sua-festa h3,
+	.como-funciona .texto-sua-festa p,
+	.como-funciona .texto-transparencia h3,
+	.como-funciona .texto-transparencia p,
+	.como-funciona .texto-opcoes h3,
+	.como-funciona .texto-opcoes p {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	/* ****************************************** */
+
+
+	/* *************** TUA FESTA **************** */
+
+	.tua-festa .container .video {
+	    width: 512px;
+		margin: 0 auto;
+	}
+
+	.tua-festa .video {
+		float: none;
+		padding-top: 48px;
+		padding-bottom: 72px;
+	}
+
+	.tua-festa .video .img-video {
+		height: 338px;
+		margin-top: -174px;
+		width: 512px;
+	}
+
+	.tua-festa .texto-video {
+		clear: both;
+		float: none;
+		margin-bottom: 128px;
+		margin-top: 0;
+		width: 100%;
+	}
+
+	.tua-festa .texto-video .img-criative {
+		height: 70px;
+	}
+
+	.tua-festa .img-mockup {
+		margin-bottom: 0;
+	}
+
+	.tua-festa .texto-festa-completa {
+		clear: both;
+		margin-bottom: 60px;
+		margin-top: 0;
+		width: 100%;
+	}
+
+	.tua-festa .texto-exercito-criativas {
+		margin-left: 0;
+		width: 100%;
+	}
+
+	.tua-festa .texto-festa-completa .img-criative,
+	.tua-festa .texto-exercito-criativas .img-criative {
+		height: 46px;
+	}
+
+	/* ****************************************** */
+
+
+	/* ************** CADASTRE-SE *************** */
+
+	.cadastre-se .container p,
+	.cadastre-se .container h3 {
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.cadastre-se .container {
+		padding-top: 0px;
+	}
+
+	.cadastre-se .img-mapa {
+		margin-top: 48px;
+	}
+
+	.cadastre-se .texto-cadastrar p {
+		margin-bottom: 32px;
+	}
+
+	.cadastre-se .cadastrar .botao-facebook {
+		margin-bottom: 80px;
+	}
+
+	/* ****************************************** */
+
+
+	/* ***************** RODAPÉ ****************** */
+
+	.rodape .container,
+	.rodape .newsletter,
+	.rodape .newsletter .input-form,
+	.rodape .copyright {
+		width: 512px;
+	}
+
+	.rodape .img-logo {
+		float: none;
+		width: 208px;
+		margin-left: 152px;
+		margin-top: 0;
+		margin-bottom: 1em;
+	}
+
+	.rodape .newsletter p {
+		margin-left: 0;
+	}
+
+	.rodape .newsletter .input-form {
+		margin-bottom: 2em; /* 32 */
+	}
+
+	.rodape .links-uteis {
+		margin: 3em 0 2em; /* 48px */ 
+	}
+
+	.rodape .links-uteis p {
+		margin-left: 0;
+	}
+	
+	.rodape .links-uteis .menu1 {
+		width: 248px;
+	}
+
+	.rodape .links-uteis .menu2 {
+		width: 248px;
+		padding-left: 16px;
+	}
+
+	.rodape .redes-sociais p {
+		display: none;
+	}
+
+	.rodape .redes-sociais {
+		margin-bottom: 40px;
+	}
+
+	.rodape .redes-sociais ul li a {
+		padding-left: 133px;
+	}
+
+	.rodape .redes-sociais .youtube {
+		padding-left: 0;
+	}
+
+	.rodape .linha-continua {
+		display: block;
+		border: 1px solid #fcfcfc;
+		width: 208px;
+	}
+
+	.rodape .copyright {
+		margin-left: 0;
+	}
+
+	/* ******************************************* */
+
+}
+
+/************************************************/
+
+
+
+/********** Extra-small/ Small Devices **********/
+
+@media screen and (max-width: 576px) {
+
+	/* ***************** LOGIN ****************** */
+
+	.login {
+		background: fixed url(../assets/img/home-bg2.jpg);
+		background-color: #6e4496;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover	
+	}
+
+	.login .main {
+		margin-left: -152px;
+		top: 40px;
+	}
+
+	.login .card {
+		margin-top: 30px;
+		padding-top: 32px;
+		width: 304px;
+	}
+
+	.login .card .botao-rosa {
+		margin-bottom: 24px;
+		margin-top: 48px;
+	}
+
+	.login .card .botao-facebook span {
+		margin-left: 1em; /* 16px */
+	}
+
+	/* ****************************************** */
+
+
+	/* ************* COMO FUNCIONA ************** */
+
+	.como-funciona .img-criacao {
+		width: 304px;	
+	}
+
+	/* ****************************************** */
+
+
+	/* *************** TUA FESTA **************** */
+
+	.tua-festa .container .video {
+	    width: 336px;
+	}
+
+	.tua-festa .video .img-criative-video {
+		height: 87px;
+		margin-top: 0;
+		width: 336px;
+	}
+
+	.tua-festa .video .img-padrao-video {
+		height: 127px;
+		margin-top: -68px;
+		width: 336px;
+	}
+
+	.tua-festa .video .img-video {
+		height: 200px;
+		margin-left: 16px;
+		margin-top: -68px;
+		width: 304px;
+	}
+
+	.tua-festa .galeria {
+		padding-top: 48px;
+		padding-bottom: 80px;
+	}
+
+	/* ****************************************** */
+
+
+	/* ************** CADASTRE-SE *************** */
+
+	.cadastre-se .container,
+	.cadastre-se .cadastrar .input-form {
+		width: 272px;
+	}
+
+	.cadastre-se .texto-cadastrar,
+	.cadastre-se .cadastrar {
+		float: left;
+		width: 272px;
+	}
+	
+	.cadastre-se .img-mapa {
+		background-position: center;
+		height: 560px;
+		margin-left: 0;
+		max-width: 100%;
+		width: 560px;
+	}
+
+	/* ****************************************** */
+
+
+	/* ***************** RODAPÉ ****************** */
+
+	.rodape .container,
+	.rodape .newsletter,
+	.rodape .newsletter .input-form,
+	.rodape .copyright {
+		width: 272px;
+	}
+
+	.rodape .img-logo {
+		width: 208px;
+		margin-left: 32px;
+	}
+
+	.rodape .links-uteis .menu1 {
+		width: 128px;
+	}
+
+	.rodape .links-uteis .menu2 {
+		width: 128px;
+	}
+
+	.rodape .redes-sociais ul li a {
+		padding-left: 53px;
+	}
+
+	/* ******************************************* */
+
+}
+
+/************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

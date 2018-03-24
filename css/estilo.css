@@ -1,0 +1,265 @@
+
+* {
+	z-index: 0;
+	outline: 0;
+}
+
+html {
+	color: #fcfcfc;
+	font-family: "DINRoundPro", sans-serif;
+	font-size: 100%; /* o tamanho padrão é 16px, de acordo com os navegadores */
+	font-weight: lighter;
+}
+
+body, html {
+    height: 100%;
+}
+
+section {
+    min-height: 100%;
+	text-align: center;
+}
+
+.container {
+    width: 1040px;
+	margin: 0 auto;
+	max-width: 100%;
+}
+
+h1, h2, h3, h4 {
+	color: #e14559;
+	font-family: "Pacifico", cursive;
+}
+
+h2 {
+	font-size: 3em; /* 48px */
+	line-height: 3em;
+}
+
+h3 {
+	font-size: 2em; /* 32px */
+	line-height: 2em;
+}
+
+h4 {
+	font-size: 1.5em; /* 24px */
+	line-height: 1.5em;
+}
+
+p {
+	font-size: 1em; /* 16px */
+	line-height: 1.5em; /* 24px */
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+	outline: 0;
+}
+
+a:active,
+a:hover {
+	color: #00b0c7;
+}
+
+img {
+	background-size: 100%;
+	max-width: 100%;
+}
+
+.como-funciona .texto-como-funciona h2,
+.como-funciona .texto-sua-festa h3,
+.como-funciona .texto-transparencia h3,
+.como-funciona .texto-opcoes h3,
+.tua-festa .texto-video h2,
+.tua-festa .texto-festa-completa h3,
+.tua-festa .texto-exercito-criativas h3,
+.cadastre-se .texto-cadastrar h3 {
+	line-height: 1em; /* 16px */
+}
+
+.img-criative {
+	background-image: url(../assets/img/creative-small.svg);
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-bottom: 8px;
+}
+
+.transicao {
+	background-repeat: repeat-x;
+	display: block;
+	height: 100px;
+	width: 100%;
+}
+
+
+/* ***************** BOTÃO ****************** */
+
+.botao {
+	border-radius: 1.5em; /* 24px */
+	border-style: none;
+	cursor: pointer;
+	display: inline-block;
+	font-family: "DINRoundPro", sans-serif;
+	font-size: 1em; /* 16px */
+	font-weight: bold;
+	height: 3em; /* 48px */
+	line-height: 1em; /* 16px */
+	text-transform: uppercase;
+	width: 100%;
+}
+
+.botao-link {
+	box-sizing: border-box; /* box-sizing é necessário em botões links para manter o height 3em */
+	padding-top: 1em; /* 16px */
+}
+
+.botao-rosa {
+	background-color: #e14559;
+	color: #fff;
+}
+
+.botao-rosa:hover,
+.botao-rosa:focus,
+.botao-rosa:active {
+	background-color: #00b0c7;
+	color: #fff;
+}
+
+.botao-pontilhado {
+	background-color: transparent;
+	border: 2px dotted #e14559;
+	color: #e14559;
+	padding-top: .875em; /* 14px */
+}
+
+.botao-pontilhado:hover,
+.botao-pontilhado:focus,
+.botao-pontilhado:active {
+	background-color: transparent;
+	border-color: #00b0c7;
+	color: #00b0c7;
+}
+
+.botao-facebook {
+	background-color: #3b5998;
+	color: #fff;
+	padding-top: 0.9375em; /* 15px */
+}
+
+.botao-facebook:hover,
+.botao-facebook:focus,
+.botao-facebook:active {
+	background-color: #4b6aac;
+	color: #fff;
+}
+
+.botao-facebook span {
+	background-image: url(../assets/icons/Facebook.svg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	display: inline-block;
+	height: 1.25em; /* 20px */
+	margin-left: 1.5em; /* 24px */
+	margin-top: -0.0625em; /* 1px */
+	text-indent: -9999px;
+	vertical-align: text-bottom;
+	width: 1.25em; /* 20px */
+
+}
+
+.botao-branco {
+	background-color: #fcfcfc;
+	color: #e14559;
+}
+
+.botao-branco:hover,
+.botao-branco:focus,
+.botao-branco:active {
+	background-color: #fcfcfc;
+	color: #00b0c7;
+}
+
+
+/* ****************************************** 
+
+
+/* ************ INPUT FORMULÁRIO ************ */
+
+.input-form {
+	border-bottom: 2px dashed #f9df19; /* cor padrão: rosa */
+	padding: 0 0 4px;
+	text-align: left;
+	width: 300px;
+}
+
+.input-form label {
+	color: #f9df19; /* cor padrão: rosa */
+	font-size: 0.75em; /* 12px */
+	line-height: 1em; /* 16px */
+	width: 100%;
+}
+
+.input-form input {
+	background-color: transparent;
+	border: 0;
+	border-bottom: 2px solid #fff; /* cor padrão: azul */
+	color: #fff; /* cor padrão: cinza */
+	font-family: "DINRoundPro", sans-serif;
+	font-size: 1em; /* 16px */
+	line-height: 2em; /* 32px */
+	padding-bottom: 0.5em; /* 8px */
+	width: 100%;
+}
+
+.input-form input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #fff; /* cor padrão: cinza mais claro */
+	opacity: 0.5;
+}
+
+.input-form input::-webkit-input-placeholder { /* Chrome, Opera, Safari */
+	color: #fff; /* cor padrão: cinza mais claro */
+	opacity: 0.5;
+}
+
+.input-form input:-moz-placeholder { /* Firefox 18- */
+	color: #fff; /* cor padrão: cinza mais claro */
+	opacity: 0.5;
+}
+
+.input-form input::-moz-placeholder { /* Firefox 19+ */
+	color: #fff; /* cor padrão: cinza mais claro */
+	opacity: 0.5;
+}
+
+.input-form input:-ms-input-placeholder { /* Internet Explorer 10 e 11 */
+	color: #fff; /* cor padrão: cinza mais claro */
+	opacity: 0.5;
+}
+
+.input-form input::-ms-input-placeholder { /* Microsoft Edge */
+    color: #fff; /* cor padrão: cinza mais claro */
+	opacity: 0.5;
+}
+
+input:required,
+input:required:focus,
+input:focus {
+	outline: 0;
+	box-shadow: none;
+	background: none;
+}
+
+input:required:invalid:focus { /* valida apenas se o usuário estiver digitando errado */
+	background-color: rgba(0,0,0,0.3);
+}
+
+/* ****************************************** */
+
+
+
+
+
+
+
+

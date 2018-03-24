@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>play copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SejaCriativa/DESKTOP-Home" transform="translate(-965.000000, -3723.000000)" fill-rule="nonzero" fill="#00B0C7">
+            <g id="play-copy" transform="translate(965.000000, 3723.000000)">
+                <path d="M12.85,22.6 C12.65,22.6 12.4,22.55 12.2,22.45 C11.8,22.25 11.6,21.8 11.6,21.35 L11.6,10.65 C11.6,10.2 11.85,9.8 12.2,9.55 C12.6,9.35 13.05,9.3 13.45,9.55 L22.8,14.9 C23.2,15.1 23.45,15.55 23.45,16 C23.45,16.45 23.2,16.85 22.8,17.1 L13.45,22.45 C13.3,22.55 13.05,22.6 12.85,22.6 Z M14.1,12.8 L14.1,19.2 L19.7,16 L14.1,12.8 Z" id="Shape"></path>
+                <path d="M16,2.5 C23.45,2.5 29.5,8.55 29.5,16 C29.5,23.45 23.45,29.5 16,29.5 C8.55,29.5 2.5,23.45 2.5,16 C2.5,8.55 8.55,2.5 16,2.5 L16,2.5 Z M16,0 C7.15,0 0,7.15 0,16 C0,24.85 7.15,32 16,32 C24.85,32 32,24.85 32,16 C32,7.15 24.85,0 16,0 L16,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

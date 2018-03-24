@@ -1,0 +1,67 @@
+
+.login {
+	background: fixed url(../assets/img/home-bg.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.login .main {
+	position: absolute;
+	left: 50%;
+	margin-left: -256px;
+	top: 120px;
+	z-index: 0;
+}
+
+.login .card {
+	background-color: #fcfcfc;
+	border-radius: 30px;
+	box-shadow: 0 64px 64px 0 rgba(16,55,101,0.50), 
+				0 32px 32px 0 rgba(16,55,101,0.50), 
+				0 16px 16px 0 rgba(16,55,101,0.35), 
+				0 8px 8px 0 rgba(16,55,101,0.35), 
+				0 4px 4px 0 rgba(16,55,101,0.35);
+	box-sizing: border-box;
+	padding: 48px 16px 24px;
+	width: 512px;
+}
+
+.login .card h4 {
+	line-height: 1em;
+	padding: 0 42px;
+}
+
+.login .card .botao {
+	max-width: 100%;
+	width: 336px;
+}
+
+.login .card .botao-rosa {
+	margin-bottom: 16px;
+	margin-top: 56px;
+}
+
+.login .card .h4-caracteres span {
+	color: #00b0c7;
+	line-height: 1em;
+	vertical-align: text-bottom;
+}
+
+.login .card .h4-caracteres {
+	margin-bottom: 6px;
+	margin-top: 6px;
+}
+
+.login .card .botao-facebook {
+	margin-bottom: 24px;
+}
+
+.login .transicao {
+	position: absolute;
+	background-image: url(../assets/img/transicao/transicao-roxa.svg);
+	bottom: 0;
+	max-height: 100%;
+}
+
+
