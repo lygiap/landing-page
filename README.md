@@ -9,17 +9,15 @@ e minhas habilidades. Quais tecnologias utilizo, como organizo os arquivos do
 projeto, como é a qualidade da escrita do meu código e quanto tempo eu gasto 
 para executar esse tipo de trabalho.
 
-Portanto, neste diretório você encontra todo o código que eu fiz para a construção
-desta landing page.
-
-A arte e criação do layout foram desenvolvidas pela própria agência, que me passaram 
-todas as imagens, fontes e especificações de espaçamentos.
+Neste diretório você encontra todo o código que eu fiz para a construção
+desta landing page. A arte e criação do layout foram desenvolvidas pela própria 
+agência, que me passaram todas as imagens, fontes e especificações de espaçamentos.
 
 O objetivo do teste era criar o front-end da Landing Page responsiva de modo que 
 o código pudesse ser entregue ao profissional de back-end que, para tanto, não 
 necessitando cuidar de processos que não envolvessem o front-end, como interações 
-de formulário, por exemplo. Entretanto, sendo preciso deixar a estrutura pronta 
-para que o programador do back-end pudesse aproveitá-la. 
+de formulário, por exemplo. Entretanto, sendo preciso deixar a estrutura pronta 
+para que o programador do back-end pudesse aproveitá-la. 
 
 Foram 16 dias trabalhados para realizar a construção deste front-end. 
 
@@ -35,4 +33,4 @@ foram 100% resolvidos, como:
 - revisão de classes no HTML (deletando as não utilizadas, se necessário)
 - teste de fonte maior e menor no navegador (acertando detalhes, se necessário)
 
-Portanto, os próximos commits se tratam dessas atualizações.
+Portanto, os próximos commits se tratam destas atualizações.
