@@ -22,7 +22,7 @@ Apesar de tudo, o meu desafio foi superado. O primeiro commit se trata do estado
 Nos meus próximos commits, tratarei destas atualizações.
 
 
-#### Imagens
+### Imagens
 
 Na pasta `assets/img`, todas as imagens `galeria-img` extraí do site unsplash.com para complementar a landing page na seção de galeria de fotos.
 
