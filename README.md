@@ -1,6 +1,6 @@
-# Mockup Frontend de uma Landing Page
+# Mockup Front-end de uma Landing Page
 
-Este projeto se trata de um teste prático realizado para uma agência digital, no primeiro trimestre do ano de 2018, para avaliarem como é o meu processo de trabalho e minhas habilidades. Quais tecnologias utilizo, como organizo os arquivos do projeto, como é a qualidade da escrita do meu código e quanto tempo eu gasto para executar esse tipo de trabalho.
+O projeto que conhecerá agora, trata-se de um teste prático realizado para uma agência digital no primeiro trimestre do ano de 2018, para avaliarem como é o meu processo de trabalho e minhas habilidades. Quais tecnologias utilizo, como organizo os arquivos do projeto, como é a qualidade da escrita do meu código e quanto tempo eu gasto para executar esse tipo de trabalho.
 
 Neste diretório, você encontra todo o código que eu fiz para a construção desta landing page. A arte e criação do layout foram desenvolvidas pela própria agência, que me passaram todas as imagens, fontes e especificações de espaçamentos.
 
